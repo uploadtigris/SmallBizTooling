@@ -9,3 +9,9 @@ Buying barcodes?
 
 Existing barcode scanners
 - https://github.com/mono0926/barcode_scan2
+
+I need an API to find the UPC files
+- https://www.barcodelookup.com/api
+- https://go-upc.com/         --> maybe a backup? Research which is better
+- https://devs.upcitemdb.com/ --> free up to 100 combined requests / day
+- 
