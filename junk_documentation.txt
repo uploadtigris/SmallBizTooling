@@ -1,0 +1,11 @@
+I need to understand how I am going to structure my files.
+
+I need a phone application.
+I need a script to decode the UPC code.
+- https://electronics.howstuffworks.com/gadgets/high-tech-gadgets/upc.htm
+
+Buying barcodes?
+- https://barcodesmania.com/
+
+Existing barcode scanners
+- https://github.com/mono0926/barcode_scan2
